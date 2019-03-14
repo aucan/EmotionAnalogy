@@ -1,1 +1,5 @@
-# EmotionAnalogy
+# A New Approach on Emotion Analogy by Using Word Embeddings 
+
+According to the Plutchik emotion classification, complex emotions consist of different combinations of eight basic emotions. The word embeddings in the literature are described as vector space where the word meanings are represented numerically. In this space, word analogies dealing with the similarities of vectors can be carried out. In this study, the method of emotion analogy is proposed to create complex emotion vectors in case there is no learning data for complex emotions. In this respect, 12 complex feeling vectors were obtained by combining the word vectors of the basic emotions by the purposed method. The similarities between the obtained combinational vectors and the word vectors belonging to the complex emotions was investigated. As a result of the experiments performed on GloVe and Word2Vec word embeddings, it is found that the results of word analogy and emotion analogy are similar at 0.82 on average.
+
+[[BIB]](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8394765) [[PDF]](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8394765)
